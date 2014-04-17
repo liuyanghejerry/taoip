@@ -1,13 +1,15 @@
 {
   "name": "taoip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module that gets ip information based on ip.taobao.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ip"
+    "ip",
+    "taoip",
+    "taobao"
   ],
   "author": "liuyanghejerry",
   "repository" : {
