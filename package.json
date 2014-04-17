@@ -10,5 +10,9 @@
     "ip"
   ],
   "author": "liuyanghejerry",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/liuyanghejerry/taoip.git"
+  },
   "license": "MIT"
 }
